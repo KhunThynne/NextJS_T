@@ -17,6 +17,7 @@ const config: Config = {
         'white': "#ffffff",
         'black':"#000000ff",
         'dark':"rgb(31, 31, 31)",
+        'thynne':{'sun':'rgb(49, 188, 243)', DEFAULT: '#06b6d4','moon':'rgb(21, 62, 116)'}
        
       },
       backgroundImage: {
